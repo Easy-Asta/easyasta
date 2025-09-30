@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" role="img" aria-label="US landmark silhouettes">
+  <rect width="1600" height="600" fill="white"/>
+  <g fill="#3C3B6E">
+    <rect x="0" y="520" width="1600" height="80" />
+    <!-- Statue of Liberty -->
+    <path d="M200 480 l10 -120 20 0 10 120z" />
+    <circle cx="220" cy="335" r="25" />
+    <!-- Capitol dome -->
+    <path d="M500 500 q80 -140 160 0z" />
+    <rect x="480" y="500" width="200" height="20" />
+    <!-- Golden Gate -->
+    <path d="M900 520 v-120 h10 v120 M1100 520 v-120 h10 v120 M910 460 h190" stroke="#B22234" stroke-width="6" fill="none"/>
+  </g>
+</svg>
