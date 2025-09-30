@@ -3,7 +3,7 @@
 This repository contains a minimal Next.js 13 project configured for the EasyASTA visa assistance platform. The goal is to provide a clean starting point free from previous deployment issues. The project includes:
 
 - **Next.js 13 app directory** with TypeScript support
-- Tailwind CSS with a red white blue palette and a simple hero section
+- Tailwind CSS with a red‒white‒blue palette and a simple hero section
 - Static assets including a US landmark silhouette
 - Basic `getDictionary` helper for future internationalisation
 - Strict security headers defined in `next.config.js`
